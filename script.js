@@ -27,11 +27,11 @@ Button.prototype = {
     }
 }
 
-//var btn1 = new Button("What's up!");
-//btn1.create();
+var btn1 = new Button("What's up!");
+btn1.create();
 
-$('#mainBtn').click(function(){
+/*$('#mainBtn').click(function(){
     btnText = prompt('Enter text');
     var btn1 = new Button(btnText);
         btn1.create();
-});
+});*/
