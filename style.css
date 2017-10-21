@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkslategrey;
+    font-size: 50px;
+    color: white;
+}
+
+div {
+    width: 100%;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin-top: calc(50vh - 81px);
+}
+
+button {
+    color: gray;
+    font-size: 20px;
+}
